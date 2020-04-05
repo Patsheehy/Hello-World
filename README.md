@@ -14,7 +14,7 @@ const byte in_B = 5;
 const byte en_C = 7;
 const byte in_C = 8;
 
-int speed_motor = 20;
+int speed_motor = 127;
 
 void setup() {
   pinMode(en_A,OUTPUT);
